@@ -53,9 +53,13 @@ h1 {
 }
 
 main img {
-    display: block;
     margin: 0 auto;
+    padding: 2px;
     border: solid 3px #493B2A;
+}
+
+main p {
+    margin: 10px;
 }
 
 .intro {
